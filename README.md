@@ -60,7 +60,7 @@ A client based project where I focused on making things **clear, structured, and
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toniyszh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toniyszh&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
