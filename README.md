@@ -57,12 +57,12 @@ A client based project where I focused on making things **clear, structured, and
 
 ---
 
-## GitHub stats
+## GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=toniyszh&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Toni's GitHub Stats"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=toniyszh&theme=tokyo-night&hide_border=true"
+    alt="Toni's GitHub Activity Graph"
   />
 </p>
 
